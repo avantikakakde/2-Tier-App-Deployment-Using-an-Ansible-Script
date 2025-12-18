@@ -198,6 +198,8 @@ AWS EC2 Instances
 
 PHP Output
 ![](./images/Screenshot%202025-12-18%20191945.png)
+ 
+ ![](./images/Screenshot%202025-12-18%20192047.png)
 
 
 
